@@ -1,0 +1,27 @@
+{
+  "name": "sync-async",
+  "version": "0.0.1",
+  "description": "Two core functions for asynchronous code",
+  "main": "sync_async.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/imapi/sync-async.git"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.3.0",
+    "grunt-contrib-jasmine": "~0.4.1",
+    "grunt-contrib-uglify": "~0.2.0",
+    "grunt-contrib-concat": "~0.1.3",
+    "grunt-contrib-watch": "~0.3.1"
+  },
+  "keywords": [
+    "async"
+  ],
+  "author": "Ivan Bondarenko",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
